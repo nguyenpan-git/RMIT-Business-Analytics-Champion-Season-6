@@ -1,4 +1,4 @@
-# OEE Optimization & Root Cause Analysis - Colgate-Palmolive 🏭
+# OEE Optimization & Root Cause Analysis - Colgate-Palmolive
 
 ## Project Overview
 This repository contains the solution for the **RMIT Business Analytics Champion Season 6 (Top 30)** by Team *THE TORTURED ANALYST DEPARTMENT*. The project analyzes production and maintenance data to identify key Overall Equipment Effectiveness (OEE) loss drivers, quantify business impact, and propose data-driven maintenance strategies for Colgate-Palmolive.
@@ -12,7 +12,6 @@ This repository contains the solution for the **RMIT Business Analytics Champion
 ## Repository Structure
 * `Datasets/`: Contains both the raw and cleaned MES/CMMS datasets used for analysis.
 * `Notebooks/`: Notebooks containing data preprocessing, Exploratory Data Analysis (EDA), and statistical testing implementations.
-* `[RBAC 2025] CASE STUDY ROUND 2.pdf`: The original case study prompt and business requirements.
 * `THE TORTURED ANALYST DEPARTMENT_Round 2_RBAC 2025.pdf`: The final presentation deck detailing the methodology, insights, and recommendations.
 
 * ## External Assets
