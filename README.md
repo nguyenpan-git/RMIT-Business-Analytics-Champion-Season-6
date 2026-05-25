@@ -1,5 +1,12 @@
 # OEE Optimization & Root Cause Analysis - Colgate-Palmolive
 
+| Thành viên         |
+|------------------- |
+| Đào Đức Thịnh      |
+| Nguyễn Văn Phúc An |
+| Võ Nhật Tiến       |
+| Huỳnh Bảo Sang     | 
+
 ## Project Overview
 This repository contains the solution for the **RMIT Business Analytics Champion Season 6 (Top 30)** by Team *THE TORTURED ANALYST DEPARTMENT*. The project analyzes production and maintenance data to identify key Overall Equipment Effectiveness (OEE) loss drivers, quantify business impact, and propose data-driven maintenance strategies for Colgate-Palmolive.
 
